@@ -21,7 +21,7 @@
 [什么是数学](https://book.douban.com/subject/1320282/) |  | 注：豆瓣评分很高，下次可以入手纸质版。
 [从一到无穷大](https://book.douban.com/subject/1102715/) |  | 科普读物，可以凑单
 [唐诗三百首详析](https://book.douban.com/subject/1274790/) |  | 注：已经重印很多次，另陈婉俊的繁体本看起来并不适合，还是不太适应 | 已购
-[中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) |
+[中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) | 注：等何时的时间一定买一套
 
 
 
