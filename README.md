@@ -36,7 +36,7 @@
 [数据科学基础(Foundations of Data Science)](https://www.cs.cornell.edu/jeh/book2016June9.pdf) |  | 新书推介：《数据科学基础》作者：ACM Fellow Avrim Blum, 图灵奖得主John Hopcroft，以及微软首席科学家Ravindran Kannan。[微博](http://weibo.com/1657470871/EbJ02Effi?type=comment#_rnd1475831904869)
 [LaTeX入门](https://book.douban.com/subject/24703731/) | [自学 LaTeX 可以读什么书入门？](https://www.zhihu.com/question/26645810) |  |
 [The Elements of Programming Style](https://book.douban.com/subject/1470267/) | [编程珠玑番外篇-7.比代码大全好的两本书B](http://blog.youxu.info/2008/11/23/the-elements-of-programming-styl/), [老人言](http://blog.codingnow.com/2009/07/the_elements_of_programming_style.html) |  |
-
+[Python for Data Analysis](https://book.douban.com/subject/10760444/) | [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159)，这里有很多推荐 | 备注：有中文版，不过还是看英文版的吧 |
 
 电影
 
