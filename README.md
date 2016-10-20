@@ -21,7 +21,7 @@
 [什么是数学](https://book.douban.com/subject/1320282/) |  | 注：豆瓣评分很高，下次可以入手纸质版。
 [从一到无穷大](https://book.douban.com/subject/1102715/) |  | 科普读物，可以凑单
 [唐诗三百首详析](https://book.douban.com/subject/1274790/) |  | 注：已经重印很多次，另陈婉俊的繁体本看起来并不适合，还是不太适应 | 已购
-[中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) | 注：等何时的时间一定买一套
+[中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) | 注：等合适的时间一定买一套
 [像一块滚石:鲍勃·迪伦回忆录（第一卷）](https://book.douban.com/subject/1448761/) |  |  |
 
 
@@ -38,6 +38,10 @@
 [The Elements of Programming Style](https://book.douban.com/subject/1470267/) | [编程珠玑番外篇-7.比代码大全好的两本书B](http://blog.youxu.info/2008/11/23/the-elements-of-programming-styl/), [老人言](http://blog.codingnow.com/2009/07/the_elements_of_programming_style.html) |  |
 [Python for Data Analysis](https://book.douban.com/subject/10760444/) | [如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？](https://www.zhihu.com/question/37180159)，这里有很多推荐 | 备注：有中文版，不过还是看英文版的吧 |
 [Transaction Processing: Concepts and Techniques](https://book.douban.com/subject/2586390/) | [微博-老师木](http://weibo.com/1991303247/EcVv5v9xD?ref=home&rid=3_0_8_2676191244541736315&type=comment) |
+[The AWK Programming Language](https://book.douban.com/subject/1876898/) | [学习AWK这是必读的一本书，五颗星推荐。](http://mingxinglai.com/cn/2013/12/material-of-shell/)，[要学AWK，就得提一提AWK的一本相当经典的书《The AWK Programming Language》，它在豆瓣上的评分是9.4分！](http://coolshell.cn/articles/9070.html) |
+[Linux Shell脚本攻略](https://book.douban.com/subject/6889456/) | [shell脚本学习材料](http://mingxinglai.com/cn/2013/12/material-of-shell/)(这是我强烈推荐的一本书，我的shell脚本从新手到老手全靠这本书。这本书很薄，也精华。) |
+
+
 
 电影
 
