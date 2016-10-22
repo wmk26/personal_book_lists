@@ -23,7 +23,7 @@
 [唐诗三百首详析](https://book.douban.com/subject/1274790/) |  | 注：已经重印很多次，另陈婉俊的繁体本看起来并不适合，还是不太适应 | 已购
 [中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) | 注：等合适的时间一定买一套
 [像一块滚石:鲍勃·迪伦回忆录（第一卷）](https://book.douban.com/subject/1448761/) |  |  |
-
+[深夜食堂系列](https://book.douban.com/series/16200) | [“品书知日本”2016征文大奖赛选送结果揭晓](http://mp.weixin.qq.com/s?__biz=MzAwOTIyNTQ4MQ==&mid=2654466028&idx=1&sn=903574f8c6a86483261425c25410f326&chksm=80a19b8ab7d6129cfb2d7bb385b1ee5e48bb772b47a79f85e695185d986db31f9b5e006a3b1f#rd) | 注：与书的缘分还真是说不清楚，本来只想看看图书馆闭馆的时间的，无意中发现了前面的那篇文章，看到了这个系列的书和电影 |  
 
 技术类
 
@@ -49,7 +49,7 @@
 --- | --- | --- 
 [一一 (2000)](https://movie.douban.com/subject/1292434/) | 看了部不错的电影《一一》，可以说是我至今为止看过的最好的台湾电影， [月光博客的推荐](https://twitter.com/williamlong/status/784567058344316932)
 [大明宫 (2009)](https://movie.douban.com/subject/5356803/) |  | 
-
+[深夜食堂 (2009)](https://movie.douban.com/subject/3991933/) |  |
 
 一些待整理的书单
 
