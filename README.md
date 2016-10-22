@@ -24,6 +24,8 @@
 [中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) | 注：等合适的时间一定买一套
 [像一块滚石:鲍勃·迪伦回忆录（第一卷）](https://book.douban.com/subject/1448761/) |  |  |
 [深夜食堂系列](https://book.douban.com/series/16200) | [“品书知日本”2016征文大奖赛选送结果揭晓](http://mp.weixin.qq.com/s?__biz=MzAwOTIyNTQ4MQ==&mid=2654466028&idx=1&sn=903574f8c6a86483261425c25410f326&chksm=80a19b8ab7d6129cfb2d7bb385b1ee5e48bb772b47a79f85e695185d986db31f9b5e006a3b1f#rd) | 注：与书的缘分还真是说不清楚，本来只想看看图书馆闭馆的时间的，无意中发现了前面的那篇文章，看到了这个系列的书和电影 |  
+[为什么读经典](https://book.douban.com/subject/1868698/) |  |  |
+[反叛的科学家](https://book.douban.com/subject/24720345/) |  |  |
 
 技术类
 
