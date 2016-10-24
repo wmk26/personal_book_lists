@@ -43,7 +43,11 @@
 [The AWK Programming Language](https://book.douban.com/subject/1876898/) | [学习AWK这是必读的一本书，五颗星推荐。](http://mingxinglai.com/cn/2013/12/material-of-shell/)，[要学AWK，就得提一提AWK的一本相当经典的书《The AWK Programming Language》，它在豆瓣上的评分是9.4分！](http://coolshell.cn/articles/9070.html) |
 [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/) | [shell脚本学习材料](http://mingxinglai.com/cn/2013/12/material-of-shell/)(这是我强烈推荐的一本书，我的shell脚本从新手到老手全靠这本书。这本书很薄，也精华。) |
 
+## 其他
 
+书籍名称 | 推荐 | 备注 | 购买？
+--- | --- | --- | --- 
+[Linear Algebra and Its Applications, 4e](https://book.douban.com/subject/1758235/) | [如何生动有趣的入门线性代数](https://zhuanlan.zhihu.com/p/23054096) |  |
 
 电影
 
