@@ -26,6 +26,8 @@
 [深夜食堂系列](https://book.douban.com/series/16200) | [“品书知日本”2016征文大奖赛选送结果揭晓](http://mp.weixin.qq.com/s?__biz=MzAwOTIyNTQ4MQ==&mid=2654466028&idx=1&sn=903574f8c6a86483261425c25410f326&chksm=80a19b8ab7d6129cfb2d7bb385b1ee5e48bb772b47a79f85e695185d986db31f9b5e006a3b1f#rd) | 注：与书的缘分还真是说不清楚，本来只想看看图书馆闭馆的时间的，无意中发现了前面的那篇文章，看到了这个系列的书和电影 |  
 [为什么读经典](https://book.douban.com/subject/1868698/) |  |  |
 [反叛的科学家](https://book.douban.com/subject/24720345/) |  |  |
+[习惯的力量](https://book.douban.com/subject/20507212/) |  |  |
+[The Power of Habit](https://book.douban.com/subject/10431236/) | [但有仅少数的书让你觉得“故事实在太精彩太有启发了，理论变得生动了许多”比如The Power of Habit。](https://book.douban.com/subject/3647676/) |  |
 
 技术类
 
