@@ -27,8 +27,11 @@
 [为什么读经典](https://book.douban.com/subject/1868698/) |  |  |
 [反叛的科学家](https://book.douban.com/subject/24720345/) |  |  |
 [习惯的力量](https://book.douban.com/subject/20507212/) |  |  |
-[The Power of Habit](https://book.douban.com/subject/10431236/) | [但有仅少数的书让你觉得“故事实在太精彩太有启发了，理论变得生动了许多”比如The Power of Habit。](https://book.douban.com/subject/3647676/) |  |
+[The Power of Habit](https://book.douban.com/subject/10431236/) | [但有仅少数的书让你觉得“故事实在太精彩太有启发了，理论变得生动了许多”比如The Power of Habit。](https://book.douban.com/subject/3647676/)，另《技巧》中也有推荐，推荐阅读英文版 |  |
 [史记（点校本二十四史修订本）](https://book.douban.com/subject/25660928/) |  | 注：现在还真想买，不过买了没地方放，还是等以后有书房吧，wishing
+[战争风云](https://book.douban.com/subject/1042928/) | [马伯庸的微博](http://weibo.com/1444865141/EgirO8fpE?ref=home&rid=8_0_8_2666971805248655585&type=comment#_rnd1478419491775) |
+[战争与回忆](https://book.douban.com/subject/1012268/) | [马伯庸的微博](http://weibo.com/1444865141/EgirO8fpE?ref=home&rid=8_0_8_2666971805248655585&type=comment#_rnd1478419491775) |
+
 
 
 技术类
