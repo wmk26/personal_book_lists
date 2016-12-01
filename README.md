@@ -1,8 +1,8 @@
 # personal_book_lists
 个人书单，记录自己遇见的好书，共享之。
 
-书籍名称 | 推荐 | 备注 | 购买？|
---- | --- | --- | --- 
+书籍名称 | 推荐 | 备注 
+--- | --- | --- 
 [Getting Things Done](https://book.douban.com/subject/1316569/) | [GTD 心法, 同人于野](https://book.douban.com/review/1930909/) | 
 [The Book on Writing: The Ultimate Guide to Writing Well – by Paula LaRocque](http://www.geekonomics10000.com/934) | [2016新年荐书](http://www.geekonomics10000.com/934) |
 [On Writing Well](https://book.douban.com/subject/4740002/) | [推荐几本英文写作的好书](http://www.claudxiao.net/2011/07/books_on_writing/) |
@@ -11,7 +11,7 @@
 [中国古代文化常识](https://book.douban.com/subject/2747765/) | [哪些书你忍不住反复翻阅？](https://www.zhihu.com/question/40328549/answer/121739687) |
 [叫魂:1768年中国妖术大恐慌](https://book.douban.com/subject/1269182/) | [哪些书你忍不住反复翻阅？](https://www.zhihu.com/question/40328549/answer/87031941)(推荐了很多历史书籍，值得参考) |
 [三案始末](https://book.douban.com/subject/25760457/) | [哪些书你忍不住反复翻阅？](https://www.zhihu.com/question/40328549/answer/87031941) |
-[战天京](https://book.douban.com/subject/1027725/) |  |  | 已购
+[战天京](https://book.douban.com/subject/1027725/) |  |  
 新中国三十年 |  |
 [中国古代房内考](https://book.douban.com/subject/1069138/) | [[经典文学] 每天一本书：中国古代房内考](http://bbs.feng.com/forum.php?mod=viewthread&tid=8324606) |
 [秘戏图考](https://book.douban.com/subject/1010010/) |  |
@@ -20,7 +20,7 @@
 [启示录：打造用户喜爱的产品](https://book.douban.com/subject/5914587/) |  |
 [什么是数学](https://book.douban.com/subject/1320282/) |  | 注：豆瓣评分很高，下次可以入手纸质版。
 [从一到无穷大](https://book.douban.com/subject/1102715/) |  | 科普读物，可以凑单
-[唐诗三百首详析](https://book.douban.com/subject/1274790/) |  | 注：已经重印很多次，另陈婉俊的繁体本看起来并不适合，还是不太适应 | 已购
+[唐诗三百首详析](https://book.douban.com/subject/1274790/) |  | 注：已经重印很多次，另陈婉俊的繁体本看起来并不适合，还是不太适应 
 [中国历史地图集（全八册）](https://book.douban.com/subject/1055304/) | [推荐几本“广受赞誉”的历史地图集](http://www.guokr.com/blog/220601/) | 注：等合适的时间一定买一套
 [像一块滚石:鲍勃·迪伦回忆录（第一卷）](https://book.douban.com/subject/1448761/) |  |  |
 [深夜食堂系列](https://book.douban.com/series/16200) | [“品书知日本”2016征文大奖赛选送结果揭晓](http://mp.weixin.qq.com/s?__biz=MzAwOTIyNTQ4MQ==&mid=2654466028&idx=1&sn=903574f8c6a86483261425c25410f326&chksm=80a19b8ab7d6129cfb2d7bb385b1ee5e48bb772b47a79f85e695185d986db31f9b5e006a3b1f#rd) | 注：与书的缘分还真是说不清楚，本来只想看看图书馆闭馆的时间的，无意中发现了前面的那篇文章，看到了这个系列的书和电影 |  
@@ -38,10 +38,10 @@
 
 书籍名称 | 推荐 | 备注 | 购买？
 --- | --- | --- | --- 
-[深入理解Nginx：模块开发与架构解析（第2版）](https://book.douban.com/subject/26745255/) | 来自计算广告学的推荐，豆瓣评分很高 |  | 已购
+[深入理解Nginx：模块开发与架构解析（第2版）](https://book.douban.com/subject/26745255/) | 来自计算广告学的推荐，豆瓣评分很高 |  
 [Vim实用技巧](https://book.douban.com/subject/25869486/) |  |
 [算法竞赛入门经典（第2版）](https://book.douban.com/subject/25902102/) | [有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410/answer/60180633) |
-[挑战程序设计竞赛](https://book.douban.com/subject/24749842/)(已经第二版了) | [有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410/answer/60180633) |  | 已购
+[挑战程序设计竞赛](https://book.douban.com/subject/24749842/)(已经第二版了) | [有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410/answer/60180633) | 
 [数据科学基础(Foundations of Data Science)](https://www.cs.cornell.edu/jeh/book2016June9.pdf) |  | 新书推介：《数据科学基础》作者：ACM Fellow Avrim Blum, 图灵奖得主John Hopcroft，以及微软首席科学家Ravindran Kannan。[微博](http://weibo.com/1657470871/EbJ02Effi?type=comment#_rnd1475831904869)
 [LaTeX入门](https://book.douban.com/subject/24703731/) | [自学 LaTeX 可以读什么书入门？](https://www.zhihu.com/question/26645810) |  |
 [The Elements of Programming Style](https://book.douban.com/subject/1470267/) | [编程珠玑番外篇-7.比代码大全好的两本书B](http://blog.youxu.info/2008/11/23/the-elements-of-programming-styl/), [老人言](http://blog.codingnow.com/2009/07/the_elements_of_programming_style.html) |  |
@@ -53,8 +53,8 @@
 
 ## 其他
 
-书籍名称 | 推荐 | 备注 | 购买？
---- | --- | --- | --- 
+书籍名称 | 推荐 | 备注 
+--- | --- | --- 
 [Linear Algebra and Its Applications, 4e](https://book.douban.com/subject/1758235/) | [如何生动有趣的入门线性代数](https://zhuanlan.zhihu.com/p/23054096) |  |
 
 电影
