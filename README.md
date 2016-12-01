@@ -36,8 +36,8 @@
 
 技术类
 
-书籍名称 | 推荐 | 备注 | 购买？
---- | --- | --- | --- 
+书籍名称 | 推荐 | 备注
+--- | --- | --- 
 [深入理解Nginx：模块开发与架构解析（第2版）](https://book.douban.com/subject/26745255/) | 来自计算广告学的推荐，豆瓣评分很高 |  
 [Vim实用技巧](https://book.douban.com/subject/25869486/) |  |
 [算法竞赛入门经典（第2版）](https://book.douban.com/subject/25902102/) | [有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410/answer/60180633) |
@@ -50,6 +50,9 @@
 [The AWK Programming Language](https://book.douban.com/subject/1876898/) | [学习AWK这是必读的一本书，五颗星推荐。](http://mingxinglai.com/cn/2013/12/material-of-shell/)，[要学AWK，就得提一提AWK的一本相当经典的书《The AWK Programming Language》，它在豆瓣上的评分是9.4分！](http://coolshell.cn/articles/9070.html) |
 [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/) | [shell脚本学习材料](http://mingxinglai.com/cn/2013/12/material-of-shell/)(这是我强烈推荐的一本书，我的shell脚本从新手到老手全靠这本书。这本书很薄，也精华。) |
 [Linux高性能服务器编程](https://book.douban.com/subject/24722611/) | [学习Linux高性能服务器编程的一些收获](http://luodw.cc/2016/04/29/HighLinux/) |
+[Pattern Recognition And Machine Learning](https://book.douban.com/subject/2061116/) |  | 有人说这本书主要从贝叶斯的角度来解读机器学习
+[The Elements of Statistical Learning](https://book.douban.com/subject/3294335/) | [就是纯粹从bayesian角度开讲机器学习，确实是很有深度的一本书。不过The Element of Statistical Learning出第二版了，我觉得最好还是那本吧](https://book.douban.com/subject/2061116/);[机器学习 -- 从入门到精通](https://book.douban.com/review/4549936/) |
+
 
 ## 其他
 
