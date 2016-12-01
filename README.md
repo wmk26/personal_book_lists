@@ -31,7 +31,9 @@
 [史记（点校本二十四史修订本）](https://book.douban.com/subject/25660928/) |  | 注：现在还真想买，不过买了没地方放，还是等以后有书房吧，wishing
 [战争风云](https://book.douban.com/subject/1042928/) | [马伯庸的微博](http://weibo.com/1444865141/EgirO8fpE?ref=home&rid=8_0_8_2666971805248655585&type=comment#_rnd1478419491775) |
 [战争与回忆](https://book.douban.com/subject/1012268/) | [马伯庸的微博](http://weibo.com/1444865141/EgirO8fpE?ref=home&rid=8_0_8_2666971805248655585&type=comment#_rnd1478419491775) |
-
+[大秦帝国](https://book.douban.com/subject/3079029/) |  |
+[金瓯缺](https://book.douban.com/subject/4000908/) |  |
+[大唐明月](https://book.douban.com/series/16651) |  |
 
 
 技术类
