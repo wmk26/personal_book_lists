@@ -51,7 +51,7 @@
 [Linux Shell脚本攻略](https://book.douban.com/subject/6889456/) | [shell脚本学习材料](http://mingxinglai.com/cn/2013/12/material-of-shell/)(这是我强烈推荐的一本书，我的shell脚本从新手到老手全靠这本书。这本书很薄，也精华。) |
 [Linux高性能服务器编程](https://book.douban.com/subject/24722611/) | [学习Linux高性能服务器编程的一些收获](http://luodw.cc/2016/04/29/HighLinux/) |
 [Pattern Recognition And Machine Learning](https://book.douban.com/subject/2061116/) |  | 有人说这本书主要从贝叶斯的角度来解读机器学习
-[The Elements of Statistical Learning](https://book.douban.com/subject/3294335/) | [就是纯粹从bayesian角度开讲机器学习，确实是很有深度的一本书。不过The Element of Statistical Learning出第二版了，我觉得最好还是那本吧](https://book.douban.com/subject/2061116/);[机器学习 -- 从入门到精通](https://book.douban.com/review/4549936/) |
+[The Elements of Statistical Learning](https://book.douban.com/subject/3294335/) | [就是纯粹从bayesian角度开讲机器学习，确实是很有深度的一本书。不过The Element of Statistical Learning出第二版了，我觉得最好还是那本吧](https://book.douban.com/subject/2061116/);[机器学习 -- 从入门到精通](https://book.douban.com/review/4549936/); | [官网可以免费下载电子版](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 
 ## 其他
