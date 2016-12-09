@@ -34,6 +34,7 @@
 [大秦帝国](https://book.douban.com/subject/3079029/) |  |
 [金瓯缺](https://book.douban.com/subject/4000908/) |  |
 [大唐明月](https://book.douban.com/series/16651) |  |
+[山海经全译](https://book.douban.com/subject/26889848/?icn=index-topchart-subject) |  |
 
 
 技术类
