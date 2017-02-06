@@ -37,6 +37,7 @@
 [山海经全译](https://book.douban.com/subject/26889848/?icn=index-topchart-subject) |  |
 [秦汉名物丛考](https://book.douban.com/subject/26701097/) | [2016 年你阅读过的书籍中最值得推荐的是哪几本？](https://www.zhihu.com/question/50762223/answer/137998770) | 
 [中国近代史](https://book.douban.com/subject/1060025/) |  |
+[Zero to One](https://book.douban.com/subject/24753651/) | [这两天终于看完了《Zero to One》。建议所有想创业的朋友都认真阅读这本书。里面有不少争议性的言论，也有不少缜密的思维。当然，最重要的，恐怕不是去甄别这些观点的正确与否，而是看能否给大家启发。 ​​​​](http://weibo.com/3193816967/EubQYqzxu?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment#_rnd1486349890445) |
 
 
 技术类
