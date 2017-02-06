@@ -36,6 +36,7 @@
 [大唐明月](https://book.douban.com/series/16651) |  |
 [山海经全译](https://book.douban.com/subject/26889848/?icn=index-topchart-subject) |  |
 [秦汉名物丛考](https://book.douban.com/subject/26701097/) | [2016 年你阅读过的书籍中最值得推荐的是哪几本？](https://www.zhihu.com/question/50762223/answer/137998770) | 
+[中国近代史](https://book.douban.com/subject/1060025/) |  |
 
 
 技术类
