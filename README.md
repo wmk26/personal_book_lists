@@ -37,7 +37,9 @@
 [山海经全译](https://book.douban.com/subject/26889848/?icn=index-topchart-subject) |  |
 [秦汉名物丛考](https://book.douban.com/subject/26701097/) | [2016 年你阅读过的书籍中最值得推荐的是哪几本？](https://www.zhihu.com/question/50762223/answer/137998770) | 
 [中国近代史](https://book.douban.com/subject/1060025/) |  |
-[Zero to One](https://book.douban.com/subject/24753651/) | [这两天终于看完了《Zero to One》。建议所有想创业的朋友都认真阅读这本书。里面有不少争议性的言论，也有不少缜密的思维。当然，最重要的，恐怕不是去甄别这些观点的正确与否，而是看能否给大家启发。 ​​​​](http://weibo.com/3193816967/EubQYqzxu?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment#_rnd1486349890445) |
+[Zero to One](https://book.douban.com/subject/24753651/) | [这两天终于看完了《Zero to One》。建议所有想创业的朋友都认真阅读这本书。里面有不少争议性的言论，也有不少缜密的思维。当然，最重要的，恐怕不是去甄别这些观点的正确与否，而是看能否给大家启发。](http://weibo.com/3193816967/EubQYqzxu?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment#_rnd1486349890445) |
+[寻找家园](https://book.douban.com/subject/1005358/) | [可能阮一峰确实很少看文学作品，这部书虽然不错，但没有好到与《古拉格群岛》相提并论的地步。事实上里面很多史料都是口口相传，未必真实。而且在此之前，高尔泰写过一本散文集《寻找家园》，建议你看看，我以为不论是文笔还是可信度，高尔泰都更胜杨显惠。](http://www.ruanyifeng.com/blog/2011/06/jiabian_ditch.html),[高尔泰的《寻找家园》](http://www.ruanyifeng.com/blog/2011/07/gao_ertai.html)(注意是否是删节版)
+[古拉格群岛（上中下）](https://book.douban.com/subject/1315844/) | 
 
 
 技术类
