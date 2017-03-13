@@ -8,6 +8,7 @@
 [On Writing Well](https://book.douban.com/subject/4740002/) | [推荐几本英文写作的好书](http://www.claudxiao.net/2011/07/books_on_writing/) |
 [The Elements of Style, Fourth Edition](https://book.douban.com/subject/1433835/) | [推荐几本英文写作的好书](http://www.claudxiao.net/2011/07/books_on_writing/),这本书是英文写作的bible，是一本必备的、应该每年读两次的书。 | 要注意版本问题
 [Style: Lessons in Clarity and Grace](https://book.douban.com/subject/4107521/) | [推荐几本英文写作的好书](http://www.claudxiao.net/2011/07/books_on_writing/) , [Joseph M. Williams的几本书](http://www.360doc.com/content/09/0607/12/3630_3800668.shtml) [干货 如果只推荐一本英文写作书，那必须是它！](http://mp.weixin.qq.com/s?__biz=MzAwMjM3MTc5OA==&mid=401553153&idx=1&sn=3e9cb5b1c5c2bccec5c1f5df9e37acad&scene=21#wechat_redirect)|
+[《华尔街日报》是如何讲故事的](https://book.douban.com/subject/1472946/) | 
 [中国古代文化常识](https://book.douban.com/subject/2747765/) | [哪些书你忍不住反复翻阅？](https://www.zhihu.com/question/40328549/answer/121739687) |
 [叫魂:1768年中国妖术大恐慌](https://book.douban.com/subject/1269182/) | [哪些书你忍不住反复翻阅？](https://www.zhihu.com/question/40328549/answer/87031941)(推荐了很多历史书籍，值得参考) |
 [三案始末](https://book.douban.com/subject/25760457/) | [哪些书你忍不住反复翻阅？](https://www.zhihu.com/question/40328549/answer/87031941) |
@@ -40,7 +41,8 @@
 [Zero to One](https://book.douban.com/subject/24753651/) | [这两天终于看完了《Zero to One》。建议所有想创业的朋友都认真阅读这本书。里面有不少争议性的言论，也有不少缜密的思维。当然，最重要的，恐怕不是去甄别这些观点的正确与否，而是看能否给大家启发。](http://weibo.com/3193816967/EubQYqzxu?from=page_1005053193816967_profile&wvr=6&mod=weibotime&type=comment#_rnd1486349890445) |
 [寻找家园](https://book.douban.com/subject/1005358/) | [可能阮一峰确实很少看文学作品，这部书虽然不错，但没有好到与《古拉格群岛》相提并论的地步。事实上里面很多史料都是口口相传，未必真实。而且在此之前，高尔泰写过一本散文集《寻找家园》，建议你看看，我以为不论是文笔还是可信度，高尔泰都更胜杨显惠。](http://www.ruanyifeng.com/blog/2011/06/jiabian_ditch.html),[高尔泰的《寻找家园》](http://www.ruanyifeng.com/blog/2011/07/gao_ertai.html)(注意是否是删节版)
 [古拉格群岛（上中下）](https://book.douban.com/subject/1315844/) | 
-
+[听音乐（插图第6版）](https://book.douban.com/subject/3095037/) | 
+[经济学大师们](https://book.douban.com/subject/10771307/) | 
 
 技术类
 
@@ -60,7 +62,7 @@
 [Linux高性能服务器编程](https://book.douban.com/subject/24722611/) | [学习Linux高性能服务器编程的一些收获](http://luodw.cc/2016/04/29/HighLinux/) |
 [Pattern Recognition And Machine Learning](https://book.douban.com/subject/2061116/) |  | 有人说这本书主要从贝叶斯的角度来解读机器学习
 [The Elements of Statistical Learning](https://book.douban.com/subject/3294335/) | [就是纯粹从bayesian角度开讲机器学习，确实是很有深度的一本书。不过The Element of Statistical Learning出第二版了，我觉得最好还是那本吧](https://book.douban.com/subject/2061116/);[机器学习 -- 从入门到精通](https://book.douban.com/review/4549936/); | [官网可以免费下载电子版](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-
+[编码的奥秘](https://book.douban.com/subject/1024570/) | 来自[各学科领域入门书籍](https://www.douban.com/doulist/1246984/)
 
 ## 其他
 
