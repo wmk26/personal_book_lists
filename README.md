@@ -43,6 +43,8 @@
 [古拉格群岛（上中下）](https://book.douban.com/subject/1315844/) | 
 [听音乐（插图第6版）](https://book.douban.com/subject/3095037/) | 
 [经济学大师们](https://book.douban.com/subject/10771307/) | 
+[The Non-Designer’s Design Book (4th Edition)](https://book.douban.com/subject/25986471/) | 中文名为《写给大家看的设计书》，[之前，我向很多人推荐过这本书（现在也同样建议所有人读）by 李笑来](http://mp.weixin.qq.com/s/bveObQt-2XL0Hf-OncVLnw)
+
 
 技术类
 
