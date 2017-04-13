@@ -44,6 +44,8 @@
 [听音乐（插图第6版）](https://book.douban.com/subject/3095037/) | 
 [经济学大师们](https://book.douban.com/subject/10771307/) | 
 [The Non-Designer’s Design Book (4th Edition)](https://book.douban.com/subject/25986471/) | 中文名为《写给大家看的设计书》，[之前，我向很多人推荐过这本书（现在也同样建议所有人读）by 李笑来](http://mp.weixin.qq.com/s/bveObQt-2XL0Hf-OncVLnw)
+[模仿犯-全3册](https://book.douban.com/subject/11638339/) | 《模仿犯》是我读得最过瘾的小说，读得非常过瘾。宫部美雪关怀书中每一个人物，传递出温暖的感觉。——蔡康永，注意版本：[一部伟大的杰作，一个丑陋的版本！（专指友谊出版社版本）](https://book.douban.com/review/5391104/)
+
 
 
 技术类
